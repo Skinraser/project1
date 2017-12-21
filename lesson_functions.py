@@ -67,3 +67,4 @@ def kelv2celc(degrees):
 
 
 print(kelv2celc(293.15))
+print(kelv2celc(315.15))
